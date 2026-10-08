@@ -310,3 +310,4 @@ ZhigulinK,Ae-21,5
 ZhigulinK,Ae-21,5
 ZhigulinK,Ae-21,5
 ZhigulinK,Ae-21,5++
+попыток без правильных ответов в Аэ-21-23: 19
